@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code highlight on ProjectName</title>
+    <link>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/</link>
+    <description>Recent content in Code highlight on ProjectName</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic highlight</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/basic-highlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/basic-highlight/</guid>
+      <description>Basic highlight This tutorial explains, how to insert Python snippets in the text with and without line numbering.
+Simple code fence Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</description>
+    </item>
+    
+    <item>
+      <title>Python code embedded</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/embedded-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/embedded-files/</guid>
+      <description>Python code embedded This tutorial explains how to embed Python code from a script, located in certain directory.
+Highlight the file Approach demonstrates that highlight shortcode can be combined with readfile shortcode. File can be located in any directory, full path (starting from repo directory) should be specified.
+1234567891011121314151617181920212223242526 import sys import numpy class Base:  &amp;#34;&amp;#34;&amp;#34; Base class &amp;#34;&amp;#34;&amp;#34; def __init__(self): self.x = None self.y = numpy.sin(numpy.pi/2.0) def value(self): return self.</description>
+    </item>
+    
+    <item>
+      <title>Testing chroma table</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/testing-chroma-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/testing-chroma-table/</guid>
+      <description> Testing chroma table 12345678910111213141516171819202122232425262728 import sys import numpy class Base: &amp;#34;&amp;#34;&amp;#34; Base class &amp;#34;&amp;#34;&amp;#34; def __init__(self): self.x = None self.y = numpy.sin(numpy.pi/2.0) def value(self): return self.y def say_hello(): &amp;#34;&amp;#34;&amp;#34; Prints &amp;#39;Hello World&amp;#39; message &amp;#34;&amp;#34;&amp;#34; b = Base() print(&amp;#34;Hello World&amp;#34;, b.value()) if __name__ == &amp;#39;__main__&amp;#39;: say_hello()    code_snippet.py  </description>
+    </item>
+    
+    <item>
+      <title>Highlight on client side</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/client-side/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/client-side/</guid>
+      <description> Code highlight using javascript library. class Base: &#34;&#34;&#34; Base class &#34;&#34;&#34; def __init__(self): self.x = None self.y = numpy.sin(numpy.pi/2.0) def value(self): return self.y  </description>
+    </item>
+    
+  </channel>
+</rss>

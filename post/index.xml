@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page with posts on ProjectName</title>
+    <link>https://scgmlz.github.io/hugo-theme-scgdoc/post/</link>
+    <description>Recent content in Page with posts on ProjectName</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Oct 2017 08:30:10 +0200</lastBuildDate>
+    
+	<atom:link href="https://scgmlz.github.io/hugo-theme-scgdoc/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New release of BornAgain: version 1.10</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.10.0/</link>
+      <pubDate>Mon, 09 Oct 2017 08:30:10 +0200</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.10.0/</guid>
+      <description>BornAgain 1.10 has been released  This release has the following highlights:
+ Integration over rotation angle for square and hexagonal lattices. Possibility to rotate imported data in GUI. GUI support for mesocrystals. Import of Python scripts as sample description in GUI (experimental)  API changes:
+ FormFactorTrivial renamed to FormFactorDot. IParticle: applyTranslation -&amp;gt; translate; applyRotation -&amp;gt; rotate.  Other changes:
+ Trapezoid resolution function to describe instruments with neutron velocity selector.</description>
+    </item>
+    
+    <item>
+      <title>New release of BornAgain: version 1.9</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.9.0/</link>
+      <pubDate>Tue, 04 Jul 2017 08:30:10 +0200</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.9.0/</guid>
+      <description>BornAgain 1.9 has been released  This release includes a new formalism for polarized neutron scattering, where the materials are defined by their magnetization instead of a homogeneous B-field. The loading and saving of project files in the GUI has also been improved in terms of responsiveness and performance.
+API changes:
+None
+Summary of other changes:
+ Magnetic scattering: New formalism that uses the magnetization of the different materials instead of the B-field GUI: Project saving now done in seperate thread.</description>
+    </item>
+    
+    <item>
+      <title>BornAgain hotfix: 1.8.1</title>
+      <link>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.8.1/</link>
+      <pubDate>Fri, 12 May 2017 08:30:10 +0200</pubDate>
+      
+      <guid>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.8.1/</guid>
+      <description>A bugfix release for BornAgain is now available.  This bugfix release fixes a number of bugs related to the GUI.
+More details can be found in the CHANGELOG.
+As always, we very much welcome your comments and feedback!</description>
+    </item>
+    
+  </channel>
+</rss>

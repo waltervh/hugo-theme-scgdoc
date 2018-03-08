@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/basic-highlight/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/basic-markdown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/child1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/child3/grandchild1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/child3/grandchild2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/basic-insert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/basic-markdown/headers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/child2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/basic-markdown/emphasis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/getstarted/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/embedded-files/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/figure-shortcode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/testing-chroma-table/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/child3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/figfancy-shortcode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/code-highlight/client-side/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/basic-markdown/list-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/whats-next/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/children/child4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/figscg-shortcode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/basic-markdown/table-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/insert-image/easy-gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/basic-markdown/link-elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/using-latex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/alert-panels/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/labels-and-icons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/tutorial10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/documentation/playground/video/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.10.0/</loc>
+    <lastmod>2017-10-09T08:30:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.9.0/</loc>
+    <lastmod>2017-07-04T08:30:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/post/release-10.8.1/</loc>
+    <lastmod>2017-05-12T08:30:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/about/</loc>
+    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/news/</loc>
+    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/</loc>
+    <lastmod>2017-10-09T08:30:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/categories/news/</loc>
+    <lastmod>2017-10-09T08:30:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/post/</loc>
+    <lastmod>2017-10-09T08:30:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/tags/release/</loc>
+    <lastmod>2017-10-09T08:30:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://scgmlz.github.io/hugo-theme-scgdoc/tags/</loc>
+    <lastmod>2017-10-09T08:30:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
